@@ -3,7 +3,7 @@
 Maintainers Guide
 #################
 
-This document calls *mainteiner* a contributor with merging privilages.
+This document defines a *maintainer* as a contributor with merging privileges.
 The tasks described here are mostly related with the Qiskit release process and with internal processes.
 
 .. _stable_branch_policy:
