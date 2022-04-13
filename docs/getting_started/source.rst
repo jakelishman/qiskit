@@ -1,3 +1,5 @@
+.. _install-from-source:
+
 ######################
 Installing from source
 ######################
