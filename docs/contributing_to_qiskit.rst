@@ -11,7 +11,7 @@ community in this goal.
 Before You Start
 ****************
 
-If you are new to Qiskit contributing we recommend before diving in to the code you do the following:
+If you are new to Qiskit contributing we recommend before diving in to the code you should do the following:
 
 #. Read the `Code of Conduct <https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md>`__
 #. :ref:`decide-what-to-work-on`
@@ -27,8 +27,16 @@ If you are new to Qiskit contributing we recommend before diving in to the code 
 Decide What to Work on
 ************************
 
-Placeholder for flowchart
+If you're not sure what type of contribution is right for you, take a look at the following flowchart to help you:
 
+.. image:: images/contributor-flowchart.svg
+  :width: 600
+
+| [1] `Qiskit translations repo <https://qisk.it/qiskit-translations/>`__
+| [2] `Qiskit Slack <http://ibm.co/joinqiskitslack/>`__  
+| [3] `Quantum Stack Exchange <https://qisk.it/37le1oQ/>`__  
+| [4] `Qiskit community feedback repo <https://qisk.it/feedback-discussions/>`__  
+| [5] `Qiskit Ecosystem <https://qisk.it/qiskit-ecosystems/>`__  
 
 .. _contributing_links:
 
