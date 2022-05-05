@@ -17,7 +17,7 @@ If you are new to Qiskit contributing we recommend before diving in to the code 
 #. :ref:`decide-what-to-work-on`
 #. Read the repo-specific :ref:`Contributing Guidelines <contributing_links>` for the repo you have decided to contribute to.
 #. :ref:`Set up your development environment <dev-env-setup>`
-#. Familiarise yourself with the Qiskit community (via `Slack <https://ibm.co/joinqiskitslack>`__, 
+#. Familiarise yourself with the Qiskit community (via `Slack <https://ibm.co/joinqiskitslack>`__,
    `Stack Exchange <https://quantumcomputing.stackexchange.com/>`__, `GitHub <https://github.com/qiskit-community/feedback/discussions>`__ etc.)
 
 
@@ -33,10 +33,10 @@ If you're not sure what type of contribution is right for you, take a look at th
   :width: 600
 
 | [1] `Qiskit translations repo <https://qisk.it/qiskit-translations/>`__
-| [2] `Qiskit Slack <http://ibm.co/joinqiskitslack/>`__  
-| [3] `Quantum Stack Exchange <https://qisk.it/37le1oQ/>`__  
-| [4] `Qiskit community feedback repo <https://qisk.it/feedback-discussions/>`__  
-| [5] `Qiskit Ecosystem <https://qisk.it/qiskit-ecosystems/>`__  
+| [2] `Qiskit Slack <http://ibm.co/joinqiskitslack/>`__
+| [3] `Quantum Stack Exchange <https://qisk.it/37le1oQ/>`__
+| [4] `Qiskit community feedback repo <https://qisk.it/feedback-discussions/>`__
+| [5] `Qiskit Ecosystem <https://qisk.it/qiskit-ecosystems/>`__
 
 .. _contributing_links:
 
@@ -45,7 +45,7 @@ Contributing to a Specific Repo
 ********************************
 
 Each Qiskit package has it's own set of Contributing Guidelines (kept in the CONTRIBUTING.md file) which
-details specific information on contributing to that repository. Make sure you read through the repo-specific 
+details specific information on contributing to that repository. Make sure you read through the repo-specific
 Contributing Guidelines prior to making your contribution to a specific repo as each project may have
 slightly different requirements and processes.
 
@@ -74,12 +74,12 @@ Retworkx                    https://github.com/Qiskit/retworkx/blob/main/CONTRIB
 .. _dev-env-setup:
 
 Set up Your Development Environment
-==========================================
+===================================
 
 To get started contributing to the python-based Qiskit repos you will need to set up a python Virtual
 Development Environment and install the appropritate package **from source**.
 
-For a quick guide on how to do this for qiskit-terra take a look at the 
+For a quick guide on how to do this for qiskit-terra take a look at the
 `How to Install Qiskit - Contributors <https://www.youtube.com/watch?v=Pix2MFCtiOo>`__ youtube video
 
 You can learn how to install different Qiskit packages from source in the :ref:`install-from-source`.
@@ -87,7 +87,7 @@ You can learn how to install different Qiskit packages from source in the :ref:`
 For non-python packages you should check the CONTRIBUTING.md file for specific details on setting up your dev environment.
 
 Set up Python Virtual Development Environment
-------------------------------------------
+---------------------------------------------
 
 Virtual environments are used for Qiskit development to isolate the development environment
 from system-wide packages. This way, we avoid inadvertently becoming dependent on a
@@ -156,7 +156,7 @@ and team members.
 
 If you've written some code but need help finishing it, want to get initial
 feedback on it prior to finishing it, or want to share it and discuss prior
-to finishing the implementation, you can open a *Draft* pull request and prepend 
+to finishing the implementation, you can open a *Draft* pull request and prepend
 the title with the **\[WIP\]** tag (for Work In Progress). This will indicate
 to reviewers that the code in the PR isn't in its final state and will change.
 It also means that we will not merge the commit until it is finished. You or a
@@ -169,7 +169,7 @@ merged in a timely manner.
 .. _pr-checklist:
 
 **Pull Request Checklist:**
------------------------
+---------------------------
 - You have followed the requirements in the CONTRIBUTING.md file for the specific repo you are
   contributing to.
 - All CI checks pass (it's recommended to run tests and lint checks locally before pushing).
@@ -179,7 +179,7 @@ merged in a timely manner.
 - Any superfluous comments or print statements have been removed.
 - All contributors have signed the :ref:`cla`.
 - The PR has a concise and explanatory title (e.g. ``Fixes Issue1234`` is a bad title!).
-- If the PR addresses an open issue the PR description includes the ``fixes #issue-number`` 
+- If the PR addresses an open issue the PR description includes the ``fixes #issue-number``
   syntax to link the PR to that issue (**you must use the exact phrasing in order for GitHub
   to automatically close the issue when the PR merges**)
 
