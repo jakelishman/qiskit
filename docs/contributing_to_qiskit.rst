@@ -29,14 +29,8 @@ Decide What to Work on
 
 If you're not sure what type of contribution is right for you, take a look at the following flowchart to help you:
 
-.. image:: images/contributor-flowchart.svg
-  :width: 600
-
-| [1] `Qiskit translations repo <https://qisk.it/qiskit-translations/>`__
-| [2] `Qiskit Slack <http://ibm.co/joinqiskitslack/>`__
-| [3] `Quantum Stack Exchange <https://qisk.it/37le1oQ/>`__
-| [4] `Qiskit community feedback repo <https://qisk.it/feedback-discussions/>`__
-| [5] `Qiskit Ecosystem <https://qisk.it/qiskit-ecosystems/>`__
+.. raw:: html
+   :file: images/contributor-flowchart.svg
 
 .. _contributing_links:
 
