@@ -1,4 +1,9 @@
 <svg width="750" height="1185" viewBox="0 0 750 1185" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+@import url("https://fonts.googleapis.com/css?family=IBM Plex Sans")
+</style>
+</defs>
 <rect x="359.5" y="0.5" width="137" height="47" fill="#6929C4" stroke="#491D8B"/>
 <rect x="384.5" y="116.5" width="84" height="47" fill="#6929C4" stroke="#491D8B"/>
 <rect x="382.5" y="217.5" width="116" height="63" fill="#6929C4" stroke="#491D8B"/>
