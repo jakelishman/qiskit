@@ -47,21 +47,27 @@ slightly different requirements and processes.
 Repo                        Contributing Guidelines
 =========================== =============================================
 Qiskit Terra                https://github.com/Qiskit/qiskit-terra/blob/main/CONTRIBUTING.md
-Qiskit Aer                  https://github.com/Qiskit/qiskit-aer/blob/main/CONTRIBUTING.md
+
+
 Qiskit Nature               https://github.com/Qiskit/qiskit-nature/blob/main/CONTRIBUTING.md
-Qiskit Optimization         https://github.com/Qiskit/qiskit-optimization/blob/main/CONTRIBUTING.md
 Qiskit Machine Learning     https://github.com/Qiskit/qiskit-machine-learning/blob/main/CONTRIBUTING.md
 Qiskit Finance              https://github.com/Qiskit/qiskit-finance/blob/main/CONTRIBUTING.md
+Qiskit Optimization         https://github.com/Qiskit/qiskit-optimization/blob/main/CONTRIBUTING.md
+
+
 Qiskit Experiments          https://github.com/Qiskit/qiskit-experiments/blob/main/CONTRIBUTING.md
 Qiskit Dynamics             https://github.com/Qiskit/qiskit-dynamics/blob/main/CONTRIBUTING.md
 Qiskit Metal                https://github.com/Qiskit/qiskit-metal/blob/main/CONTRIBUTING.md
 
-Qiskit (meta-package)       https://github.com/Qiskit/qiskit/blob/master/CONTRIBUTING.md
+Qiskit Aer                  https://github.com/Qiskit/qiskit-aer/blob/main/CONTRIBUTING.md
 
 Qiskit Textbook (legacy)    https://github.com/qiskit-community/qiskit-textbook/blob/main/CONTRIBUTING.md
 Qiskit Textbook (beta)      https://github.com/Qiskit/platypus/blob/main/CONTRIBUTING.md
+Qiskit Tutorials            https://github.com/Qiskit/qiskit-tutorials/blob/master/CONTRIBUTING.md
+
 
 Retworkx                    https://github.com/Qiskit/retworkx/blob/main/CONTRIBUTING.md
+Qiskit (meta-package)       https://github.com/Qiskit/qiskit/blob/master/CONTRIBUTING.md
 =========================== =============================================
 
 
