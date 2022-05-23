@@ -38,7 +38,7 @@ If you're not sure what type of contribution is right for you, take a look at th
 Contributing to a Specific Repo
 ********************************
 
-Each Qiskit package has it's own set of Contributing Guidelines (kept in the CONTRIBUTING.md file) which
+Each Qiskit package has its own set of Contributing Guidelines (kept in the ``CONTRIBUTING.md`` file) which
 details specific information on contributing to that repository. Make sure you read through the repo-specific
 Contributing Guidelines prior to making your contribution to a specific repo as each project may have
 slightly different requirements and processes.
