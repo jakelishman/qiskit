@@ -80,7 +80,7 @@ To get started contributing to the python-based Qiskit repos you will need to se
 Development Environment and install the appropriate package **from source**.
 
 For a quick guide on how to do this for qiskit-terra take a look at the
-`How to Install Qiskit - Contributors <https://www.youtube.com/watch?v=Pix2MFCtiOo>`__ youtube video
+`How to Install Qiskit - Contributors <https://www.youtube.com/watch?v=Pix2MFCtiOo>`__ YouTube video.
 
 You can learn how to install different Qiskit packages from source in the :ref:`install-from-source`.
 
