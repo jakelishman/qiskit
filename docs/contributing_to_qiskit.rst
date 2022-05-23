@@ -17,7 +17,7 @@ If you are new to Qiskit contributing we recommend before diving in to the code 
 #. :ref:`Decide what to work on <decide-what-to-work-on>`
 #. Read the repo-specific :ref:`Contributing Guidelines <contributing_links>` for the repo you have decided to contribute to.
 #. :ref:`Set up your development environment <dev-env-setup>`
-#. Familiarise yourself with the Qiskit community (via `Slack <https://ibm.co/joinqiskitslack>`__,
+#. Familiarize yourself with the Qiskit community (via `Slack <https://ibm.co/joinqiskitslack>`__,
    `Stack Exchange <https://quantumcomputing.stackexchange.com/>`__, `GitHub <https://github.com/qiskit-community/feedback/discussions>`__ etc.)
 
 
