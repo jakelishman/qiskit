@@ -201,7 +201,7 @@ Please be patient! Maintainers have a number of other priorities to focus on and
 some time for your work to get reviewed and merged. PRs that are in a good shape (i.e. following the :ref:`pr-checklist`)
 are easier for maintainers to review and more likely to get merged in a timely manner. Please also make
 sure to always be kind and respectful in your interactions with maintainers and other contributors, you can read
-the Qiskit Code of Conduct `here <https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md>`__.
+`the Qiskit Code of Conduct <https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md>`__.
 
 
 
