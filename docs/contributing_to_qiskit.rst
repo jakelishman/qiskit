@@ -76,7 +76,7 @@ Qiskit (meta-package)       https://github.com/Qiskit/qiskit/blob/master/CONTRIB
 Set up Your Development Environment
 ===================================
 
-To get started contributing to the python-based Qiskit repos you will need to set up a python Virtual
+To get started contributing to the Python-based Qiskit repos you will need to set up a Python Virtual
 Development Environment and install the appropriate package **from source**.
 
 For a quick guide on how to do this for qiskit-terra take a look at the
